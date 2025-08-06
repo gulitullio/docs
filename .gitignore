@@ -1,17 +1,17 @@
 # Dependencies
-/node_modules
+/docusaurus/node_modules
 
 # Generated files
-.docusaurus
-.cache-loader
+/docusauru/.docusaurus
+/docusauru/.cache-loader
 
 # Misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+/docusauru/.DS_Store
+/docusauru/.env.local
+/docusauru/.env.development.local
+/docusauru/.env.test.local
+/docusauru/.env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+/docusauru/npm-debug.log*
+/docusauru/yarn-debug.log*
+/docusauru/yarn-error.log*
