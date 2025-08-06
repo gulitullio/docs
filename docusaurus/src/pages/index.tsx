@@ -35,7 +35,7 @@ export default function Home(): ReactNode {
   const history = useHistory();
   
   useEffect(() => {
-    history.replace('/docs/introduzione');
+    history.replace('/docs/content/introduzione');
   }, [history]);
 
   return null;
