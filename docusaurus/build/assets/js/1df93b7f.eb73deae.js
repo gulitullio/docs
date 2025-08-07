@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[583],{8198:(e,t,n)=>{n.r(t),n.d(t,{default:()=>c});n(8774),n(4586),n(1107);var s=n(6540),u=n(6347);n(4848);function c(){const e=(0,u.W6)();return(0,s.useEffect)(()=>{e.replace("/docs/content/introduzione")},[e]),null}}}]);
