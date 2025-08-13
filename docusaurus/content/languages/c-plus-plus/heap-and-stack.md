@@ -1,6 +1,5 @@
 ---
 title: Heap & Stack
-sidebar_position: 2
 ---
 
 ---

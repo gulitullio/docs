@@ -1,6 +1,5 @@
 ---
 title: Smart Pointer
-sidebar_position: 3
 ---
 
 Gli smart pointer sono degli oggetti che gestiscono automaticamente la memoria in linguaggi come C++.

@@ -1,6 +1,5 @@
 ---
 title: Ereditarietà
-sidebar_position: 4
 ---
 
 In C++, l’ereditarietà può essere pubblica, protetta o privata.  
